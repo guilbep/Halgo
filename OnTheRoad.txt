@@ -1,0 +1,13 @@
+nom du site: Halgo | Halt and Go
+
+- Pouvoir se loguer avec different site déjà existant // twiter  // facebook // gmail
+- Historique de mes trajets (public ou privée ou liste d'habitué)
+- Private messages (systeme interne ou dm twitter)
+- Status // En déplacement // system de check'in via gowalla ou autre //
+- Vehicule utilisé
+- Calcule de vitesse moyenne possible sur trajet // temps moyens constasté 
+ // consommation Electrique/Fuel/Gaz == Prix\
+- Inventaire de voiture et de prix essence.
+- Péages? via mappy ou autres trouver les tarifs
+-- status/ Je suis disponible pour un déplacement (cours/ longs / durée)
+/ Je veux bien offrir l'hebergement pour la nuit 
